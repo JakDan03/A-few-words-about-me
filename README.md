@@ -1,6 +1,7 @@
 Jakub Danelski (@JakDan03) here! 🤠
-- I'm at the beginning of my coding development, I'm searching for new experiences 🥊
+- I'm at the beginning of my coding "career", I'm searching for new experiences 🥊
 - I've started with C++ and VBA basics 🔨
+- Now I develop my Python skills and get to know Pandas utilities 🐍
 - Hope my skills will become useful at some point 🙃 
 
 📫 Email address: qb4.contact@gmail.com
